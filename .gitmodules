@@ -1,0 +1,6 @@
+[submodule "shuffler"]
+	path = shuffler
+	url = git@github.com:mccs-group/gcc-pho-shuffler.git
+[submodule "embedding_computation"]
+	path = embedding_computation
+	url = git@github.com:mccs-group/Embed_compute_script.git
